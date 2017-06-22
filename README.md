@@ -1,5 +1,7 @@
 # cljs-go-reify-bug
 
+**UPDATE:** this looks to be already covered by this ticket: https://dev.clojure.org/jira/browse/ASYNC-57
+
 Minimal ClojureScript example demonstrating the compilation error when `reify` is used inside `go`.
 
 
