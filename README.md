@@ -1,6 +1,6 @@
 # cljs-go-reify-bug
 
-Minimal ClojureScript demonstrating the compilation error when `reify` is used inside `go`.
+Minimal ClojureScript example demonstrating the compilation error when `reify` is used inside `go`.
 
 
 Build:
